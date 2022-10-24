@@ -1,5 +1,5 @@
 ---
-title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
+title:  Help Documentation
 featuredLinks:
   gettingStarted:
     - /get-started/quickstart/set-up-git
